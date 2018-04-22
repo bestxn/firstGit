@@ -39,6 +39,7 @@ public class MyClass {
         }
 
         System.out.printf("hellow c:"+a[4]);
+        System.out.printf("hellow c:"+a[4]);
 
 
     }
