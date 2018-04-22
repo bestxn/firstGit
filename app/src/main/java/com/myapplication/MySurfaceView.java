@@ -41,7 +41,7 @@ public class MySurfaceView extends SurfaceView implements SurfaceHolder.Callback
         isDrawing = true;
         new Thread(this).start();
     }
-
+// ｌｘｎ更新了代码
     @Override
     public void surfaceChanged(SurfaceHolder holder, int format, int width, int height) {
 
