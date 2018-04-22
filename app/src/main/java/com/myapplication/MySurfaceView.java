@@ -30,6 +30,7 @@ public class MySurfaceView extends SurfaceView implements SurfaceHolder.Callback
 	initView();
 	//修复bug01
 //添加了新功能02
+//添加新功能03
     }
 
     //初始化
