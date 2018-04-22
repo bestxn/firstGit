@@ -31,6 +31,7 @@ public class MySurfaceView extends SurfaceView implements SurfaceHolder.Callback
 	//修复bug01
 //添加了新功能02
 //伟哥修改了bug
+//添加新功能03
     }
 
     //初始化
