@@ -1,4 +1,4 @@
-package com.myapplication;
+﻿package com.myapplication;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -27,6 +27,8 @@ public class MySurfaceView extends SurfaceView implements SurfaceHolder.Callback
     public MySurfaceView(Context context) {
         super(context);
         initView();
+	initView();
+	//修复bug01
     }
 
     //初始化
